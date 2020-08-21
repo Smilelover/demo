@@ -66,7 +66,7 @@ public class DemoTest2 {
             }
             array[j] = tmp;
         }
-        //数组舒服
+        //数组输出
       for(i=0; i<array.length-1;i++){
           System.out.println(array[i]);
       }
